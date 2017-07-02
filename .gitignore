@@ -1,0 +1,11 @@
+_Store
+.Rhistory
+.cache/
+.Rproj.user
+.RData
+*.db
+*.csv
+*.png
+*.Rproj
+.git/
+.private/

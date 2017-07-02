@@ -1,0 +1,9 @@
+Package: ProjectBase
+Title: Helper functions for settting up a project
+Version: 0.10.0.0
+Authors@R: person("Paul", "Engler", email = "dev@null", role = c("aut", "cre"))
+Description: Base functions to help keep my projects consistent and allow for configuration and private data to be seperated. 
+Depends: R (>= 3.4.0)
+License: The UnLicense
+Encoding: UTF-8
+LazyData: true
